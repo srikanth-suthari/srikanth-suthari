@@ -1,6 +1,6 @@
-## Hi there 👋
+# Hi there 👋
 
-# 💫 About Me:
+## 💫 About Me:
 🔭 I’m a Fresher diving into the world of DevOps and Cloud Computing.<br>👯 I’m looking to collaborate on open-source projects involving CI/CD pipeline automation, Infrastructure as Code (IaC), or container orchestration.<br>🤝 I’m looking for help with gaining practical, real-world experience and mentorship from seasoned DevOps professionals.<br>🌱 I’m currently learning advanced Kubernetes concepts, Terraform for multi-cloud deployments, and monitoring with Prometheus & Grafana.<br>💬 Ask me about Docker, Jenkins, Git/GitHub, foundational AWS services, or my latest automation script!<br>⚡ Fun fact The term "commit" in Git was inspired by database commits, signifying a permanent save of a set of changes.
 
 
